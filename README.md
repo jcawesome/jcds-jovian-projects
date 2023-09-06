@@ -13,7 +13,10 @@ Compilation of notebooks from the **Deep Learning with PyTorch: Zero to GBMs** c
   * [Linear Regression with Scikit Learn](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/python-sklearn-linear-regression-v-1) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F01_Lessons%2Fpython-sklearn-linear-regression-v-1%2Fpython-sklearn-linear-regression.ipynb)
   * [Logistic Regression with Scikit Learn](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/python-sklearn-logistic-regression-v-1) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F01_Lessons%2Fpython-sklearn-logistic-regression-v-1%2Fpython-sklearn-logistic-regression.ipynb)
   * [Decision Trees and Random Forests: Hyperparameters and Regularization](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/sklearn-decision-trees-random-forests-v-39) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F01_Lessons%2Fsklearn-decision-trees-random-forests-v-39%2Fsklearn-decision-trees-random-forests)
-  * 
+  * [Gradient Boosting Machines (GBMs) with XGBoost](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/python-gradient-boosting-machines-v-26)[![Binder](https://mybinder.org/badge_logo.svg)]()
+  * [Unsupervised Learning and Recommendation using Scikit Learn](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/sklearn-unsupervised-learning-v-12)(https://mybinder.org/badge_logo.svg)]()
+  * [Collaborative filtering with FastAI](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/movielens-fastai-v-26)(https://mybinder.org/badge_logo.svg)]()
+      > Build a state-of-the-art movie recommendation system with just 10 lines of code
 
 * Assignments
   *
