@@ -6,3 +6,9 @@ Compilation of notebooks from the **Deep Learning with PyTorch: Zero to GANs** c
 * [Insurance cost prediction using linear regression](https://github.com/jcawesome/jcds-jovian-projects/blob/main/notebooks/insurance-linear-regression)
 * [Classifying images of everyday objects using a neural network](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/cifar10-feedforward)
 * [Intel Image Classification](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/landscape-classification-zerotogans-project#landscape-image-classification-using-convolutional-neural-networks) 
+
+## Zero-To-GBMs
+Compilation of notebooks from the **Deep Learning with PyTorch: Zero to GBMs** course.
+* Lessons
+  * [Linear Regression with Scikit Learn](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/python-sklearn-linear-regression-v-1) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F01_Lessons%2Fpython-sklearn-linear-regression-v-1%2Fpython-sklearn-linear-regression.ipynb)
+  * [Logistic Regression with Scikit Learn](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/01_Lessons/python-sklearn-logistic-regression-v-1) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F01_Lessons%2Fpython-sklearn-logistic-regression-v-1%2Fpython-sklearn-logistic-regression.ipynb)
