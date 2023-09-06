@@ -25,6 +25,7 @@ Compilation of notebooks from the **Deep Learning with PyTorch: Zero to GBMs** c
       > Build a state-of-the-art movie recommendation system with just 10 lines of code
 
 * Assignments
-  *
+  * [House Price Prediction with Linear Regression](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/02_Assignments/python-sklearn-assignment-v-11)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F02_Assignments%2Fpython-sklearn-assignment-v-11%2Fpython-sklearn-assignment.ipynb)
+  * [Decision Trees and Random Forests](https://github.com/jcawesome/jcds-jovian-projects/tree/main/notebooks/Zero-To-GBMs/02_Assignments/python-random-forests-assignment-v-19)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcawesome/jcds-jovian-projects/HEAD?labpath=notebooks%2FZero-To-GBMs%2F02_Assignments%2Fpython-random-forests-assignment-v-19%2Fpython-random-forests-assignment.ipynb)
 
 * Course Capstone Project - Real-World Machine Learning Model
